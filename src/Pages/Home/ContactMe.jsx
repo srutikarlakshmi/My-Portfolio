@@ -30,8 +30,7 @@ export default function ContactMe() {
         <p className="sub--title">Get In Touch</p>
         <h2>Contact Me</h2>
         <p className="text-lg">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum,
-          similique?
+        Interested in my profile? Fill out the short form below to get in touch with me!
         </p>
       </div>
       <form className="contact--form--container" ref={form} onSubmit={sendEmail} >

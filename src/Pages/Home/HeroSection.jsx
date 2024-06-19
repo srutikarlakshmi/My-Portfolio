@@ -20,7 +20,7 @@ export default function HeroSection() {
         </div>
 
         <a
-          href="./img/RESUME.pdf"
+          href="./img/Srutika_R_Lakshmi_Resume.pdf"
           download="RESUME.pdf"
           className="btn btn-primary"
         >
