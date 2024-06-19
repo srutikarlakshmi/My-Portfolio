@@ -24,23 +24,23 @@
   "portfolio": [
     {
       "id": "1",
+      "src": "./img/laptop.png",
+      "title": "Common CSR Portal",
+      "description": "CSR Hub: A unified platform where companies collaborate and host CSR activities seamlessly! 🤝🌍✨ Organizations can also initiate activities right here.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
       "src": "./img/weather.png",
       "title": "WeatherApp",
       "description": "MyWeatherApp: Your passport to instant global weather updates, served with a side of OpenWeather API magic! ☀️🌍🌧️",
       "link": "View In Github"
     },
     {
-      "id": "2",
+      "id": "3",
       "src": "./img/port.png",
       "title": "MyPortfolio",
       "description": "My portfolio: where skills meet creativity, and experience tells a story. Let's bring ideas to life! 🌟",
-      "link": "View In Github"
-    },
-    {
-      "id": "3",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Loren Ipsum dolar sit amet, consectetur adipiscing elit. Suspenmdisse varis eim in eros elementum tristique",
       "link": "View In Github"
     }
   ]

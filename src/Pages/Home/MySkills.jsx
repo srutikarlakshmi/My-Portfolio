@@ -1,6 +1,6 @@
 import data from "../../data/index.json";
 
-// When you wanna add more skills, this page will remain the same, add the skills in index.json and they will be visible in the website.... That's an amazinf feature!!!!!
+// When you wanna add more skills, this page will remain the same, add the skills in index.json and they will be visible in the website.... That's an amazing feature!!!!!
 export default function MySkills() {
   return (
     <section className="skills--section" id="mySkills">
