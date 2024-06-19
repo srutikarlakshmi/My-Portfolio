@@ -1,5 +1,4 @@
-/* eslint-disable jsx-a11y/anchor-is-valid */
-/* eslint-disable no-unused-expressions */
+
 import { useState, useEffect } from "react";
 import { Link } from "react-scroll";
 
